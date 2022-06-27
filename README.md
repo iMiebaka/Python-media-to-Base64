@@ -1,6 +1,6 @@
 # Python Base64 media toolkit
 
-![Tests]([https://github.com/iMiebaka/Python-media-to-Base64/actions/workflows/python-app.yml/badge.svg])
+![Tests](https://github.com/iMiebaka/Python-media-to-Base64/actions/workflows/python-app.yml/badge.svg)
 
 ## Table of Contents
 
@@ -16,7 +16,8 @@ It uses Flask for serverside.
 ## Getting Started <a name = "getting_started"></a>
 You'll need to clone the repo if it meets the software packages below 
 - python3
-- python3-pip
+- python3-pip![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
 
 
 ### Prerequisites
