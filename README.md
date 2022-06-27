@@ -1,6 +1,7 @@
 # Python Base64 media toolkit
 
-![Tests](https://github.com/iMiebaka/Python-media-to-Base64/actions/workflows/python-app.yml/badge.svg])
+![Tests]([https://github.com/iMiebaka/Python-media-to-Base64/actions/workflows/python-app.yml/badge.svg])
+
 ## Table of Contents
 
 - [About](#about)
